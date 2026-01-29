@@ -2,7 +2,22 @@
 
 >building things that learn,  
 >breaking things to understand them.
-<img src="https://pacman.abozanona.me?username=priyanshuf11" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-light.svg"
+  />
+  <img
+    alt="Breakout Game"
+    src="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-light.svg"
+  />
+</picture>
+
 <div >
   <h2>LeetCode</h2>
 
