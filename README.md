@@ -34,7 +34,7 @@
 </div>
 <div align="left">
 
-
+![My GitHub Game](game.gif)
 
 ## 🚀 Tech Stack
 
