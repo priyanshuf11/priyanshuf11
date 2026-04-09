@@ -1,42 +1,19 @@
 
+# Hello, I'm Priyanshu👋 😃
 
+<br/>
+
+### 🚀 Contribution Activity (yes, it shoots commits)
 <div align="center">
-
-
-  ```ascii
-╔═════════════════════════════════════════════════════════════════════════════╗
-║   ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗   ║
-║   ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║   ║
-║   ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║   ║
-║   ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║   ║
-║   ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝   ║
-║   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ║
-╠═════════════════════════════════════════════════════════════════════════════╣
-║           Dev     DSA        Systems        Neovim          AI              ║
-╚═════════════════════════════════════════════════════════════════════════════╝
-```
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-light.svg"
-  />
-  <img
-    alt="Breakout Game"
-    src="https://raw.githubusercontent.com/priyanshuf11/priyanshuf11/github-breakout/images/breakout-light.svg"
-  />
-</picture>
-</div>
-<div align="left">
-
+  
 ![My GitHub Game](game.gif)
 
+</div>
+<br/>
+
+
 ## 🚀 Tech Stack
+
 
 | Category | Technologies |
 |----------|-------------|
@@ -47,6 +24,8 @@
 | Tools | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) |
 | UI / State | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge) |
 | Exploring | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)|
+
+---
 
 <h2>About Me</h2>
 
@@ -70,7 +49,7 @@ priyanshu@terminal:~$ cat /etc/profile.d/bio.conf
 
 priyanshu@terminal:~$
 ```
-</div>
+
 <div >
   <h2>LeetCode</h2>
 
